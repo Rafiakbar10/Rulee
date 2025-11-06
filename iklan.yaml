@@ -1,0 +1,683 @@
+# Ads blok
+
+payload:
+# AbpINDO Block
+  - DOMAIN-SUFFIX,fibpwuontdid.com
+  - DOMAIN-SUFFIX,188affiliates.com
+  - DOMAIN-SUFFIX,accesstrade.co.id
+  - DOMAIN-SUFFIX,ad-loupe.com
+  - DOMAIN-SUFFIX,adbsys.icu
+  - DOMAIN-SUFFIX,addesigner.com
+  - DOMAIN-SUFFIX,admarketplace.net
+  - DOMAIN-SUFFIX,adnety.com
+  - DOMAIN-SUFFIX,adplus.co.id
+  - DOMAIN-SUFFIX,adpop-1.com
+  - DOMAIN-SUFFIX,adpstatic.com
+  - DOMAIN-SUFFIX,adreach.co
+  - DOMAIN-SUFFIX,adreviewcamp.com
+  - DOMAIN-SUFFIX,ads-link.net
+  - DOMAIN-SUFFIX,ads.d21.media
+  - DOMAIN-SUFFIX,ads.indosatooredoo.com
+  - DOMAIN-SUFFIX,ads.telkomsel.com
+  - DOMAIN-SUFFIX,adsbingo.com
+  - DOMAIN-SUFFIX,adscpm.site
+  - DOMAIN-SUFFIX,adshost.site
+  - DOMAIN-SUFFIX,adsimg.kompas.com
+  - DOMAIN-SUFFIX,adskom.com
+  - DOMAIN-SUFFIX,adslop.com
+  - DOMAIN-SUFFIX,adstarsmedia.co.id
+  - DOMAIN-SUFFIX,adtimeselaras.com
+  - DOMAIN-SUFFIX,alertpay.com
+  - DOMAIN-SUFFIX,ampclicks.com
+  - DOMAIN-SUFFIX,anekaiklan.com
+  - DOMAIN-SUFFIX,baliadv.com
+  - DOMAIN-SUFFIX,bellaads.com
+  - DOMAIN-SUFFIX,berangkasilmu.com
+  - DOMAIN-SUFFIX,brand.ad
+  - DOMAIN-SUFFIX,caribanner.bid
+  - DOMAIN-SUFFIX,cdnasiaclub.com
+  - DOMAIN-SUFFIX,cfs.uzone.id
+  - DOMAIN-SUFFIX,cfs2.uzone.id
+  - DOMAIN-SUFFIX,clickmedia.co.id
+  - DOMAIN-SUFFIX,compulsivehemisphere.com
+  - DOMAIN-SUFFIX,csf.uzone.id
+  - DOMAIN-SUFFIX,d01.notifa.info
+  - DOMAIN-SUFFIX,dewsburg.info
+  - DOMAIN-SUFFIX,digiads.co.id
+  - DOMAIN-SUFFIX,ena-native-ads4.com
+  - DOMAIN-SUFFIX,etoads.net
+  - DOMAIN-SUFFIX,filebanner.com
+  - DOMAIN-SUFFIX,forumiklan.com
+  - DOMAIN-SUFFIX,goingsilltrusty.com
+  - DOMAIN-SUFFIX,groupiklan.com
+  - DOMAIN-SUFFIX,gudangbanner.com
+  - DOMAIN-SUFFIX,halal.ad
+  - DOMAIN-SUFFIX,herdethi.net
+  - DOMAIN-SUFFIX,hitadsmedia.com
+  - DOMAIN-SUFFIX,hosillfir.site
+  - DOMAIN-SUFFIX,ibnads.xl.co.id
+  - DOMAIN-SUFFIX,iklan-laris.com
+  - DOMAIN-SUFFIX,iklanads.com
+  - DOMAIN-SUFFIX,iklanbarisgratis.com
+  - DOMAIN-SUFFIX,iklanbarismu.com
+  - DOMAIN-SUFFIX,iklanblogger.com
+  - DOMAIN-SUFFIX,iklanbogor.com
+  - DOMAIN-SUFFIX,iklandenpasar.com
+  - DOMAIN-SUFFIX,iklangratis.com
+  - DOMAIN-SUFFIX,iklangratis88.com
+  - DOMAIN-SUFFIX,iklanhemat.com
+  - DOMAIN-SUFFIX,iklanhoki.com
+  - DOMAIN-SUFFIX,iklanoke.com
+  - DOMAIN-SUFFIX,iklantelevisi.com
+  - DOMAIN-SUFFIX,iklantext.com
+  - DOMAIN-SUFFIX,iklantop.net
+  - DOMAIN-SUFFIX,iklanumum.com
+  - DOMAIN-SUFFIX,indoadsnet.com
+  - DOMAIN-SUFFIX,indobanner.com
+  - DOMAIN-SUFFIX,indofreeads.com
+  - DOMAIN-SUFFIX,istana-impian.com
+  - DOMAIN-SUFFIX,istana-impian2.com
+  - DOMAIN-SUFFIX,istanaiklan.com
+  - DOMAIN-SUFFIX,istanaimpian1.com
+  - DOMAIN-SUFFIX,istanaimpian2.com
+  - DOMAIN-SUFFIX,istanaimpian3.com
+  - DOMAIN-SUFFIX,jagoiklan.com
+  - DOMAIN-SUFFIX,jagopromo.com
+  - DOMAIN-SUFFIX,jasaiklan.com
+  - DOMAIN-SUFFIX,javaiklan.com
+  - DOMAIN-SUFFIX,klikajadeh.com
+  - DOMAIN-SUFFIX,kotaksilver.casa
+  - DOMAIN-SUFFIX,lokeriklan.com
+  - DOMAIN-SUFFIX,luckyads.com
+  - DOMAIN-SUFFIX,lugtardam.com
+  - DOMAIN-SUFFIX,luven.xyz
+  - DOMAIN-SUFFIX,masteriklan.net
+  - DOMAIN-SUFFIX,mediab.uy
+  - DOMAIN-SUFFIX,mesiniklan.andipublisher.com
+  - DOMAIN-SUFFIX,newsupdatewe.info
+  - DOMAIN-SUFFIX,offdeck.telkomsel.com
+  - DOMAIN-SUFFIX,offer.popsads.link
+  - DOMAIN-SUFFIX,offerjuice.me
+  - DOMAIN-SUFFIX,onclkds.com
+  - DOMAIN-SUFFIX,onigagalai.ru
+  - DOMAIN-SUFFIX,openadserving.com
+  - DOMAIN-SUFFIX,p01.notifa.info
+  - DOMAIN-SUFFIX,p02.notifa.info
+  - DOMAIN-SUFFIX,p03.notifa.info
+  - DOMAIN-SUFFIX,p04.notifa.info
+  - DOMAIN-SUFFIX,p05.notifa.info
+  - DOMAIN-SUFFIX,padssup.com
+  - DOMAIN-SUFFIX,paidforfree.com
+  - DOMAIN-SUFFIX,parentelement.ml
+  - DOMAIN-SUFFIX,pasangiklan.com
+  - DOMAIN-SUFFIX,pasariklanbaris.com
+  - DOMAIN-SUFFIX,payingbeswim.com
+  - DOMAIN-SUFFIX,paypopup.com
+  - DOMAIN-SUFFIX,pc3ads.com
+  - DOMAIN-SUFFIX,pondokiklan.com
+  - DOMAIN-SUFFIX,popclck.net
+  - DOMAIN-SUFFIX,popunderjs.club
+  - DOMAIN-SUFFIX,presbanise.pw
+  - DOMAIN-SUFFIX,promobagus.com
+  - DOMAIN-SUFFIX,promotioncamp.com
+  - DOMAIN-SUFFIX,props.id
+  - DOMAIN-SUFFIX,propsid.b-cdn.net
+  - DOMAIN-SUFFIX,publish.web.id
+  - DOMAIN-SUFFIX,pusatiklan.com
+  - DOMAIN-SUFFIX,s2pops.club
+  - DOMAIN-SUFFIX,sanglah.com
+  - DOMAIN-SUFFIX,sarapbeh.com
+  - DOMAIN-SUFFIX,scriptall.ml
+  - DOMAIN-SUFFIX,sebar.idblognetwork.com
+  - DOMAIN-SUFFIX,see-work.info
+  - DOMAIN-SUFFIX,sentrapromosi.com
+  - DOMAIN-SUFFIX,serbada.com
+  - DOMAIN-SUFFIX,serbapromo.com
+  - DOMAIN-SUFFIX,shiiuojjccp.com
+  - DOMAIN-SUFFIX,shiokambing2.com
+  - DOMAIN-SUFFIX,sitti.co.id
+  - DOMAIN-SUFFIX,situsiklanbaris.com
+  - DOMAIN-SUFFIX,spanuletubings.com
+  - DOMAIN-SUFFIX,sumberiklan.com
+  - DOMAIN-SUFFIX,suryaiklan.com
+  - DOMAIN-SUFFIX,teliad.com
+  - DOMAIN-SUFFIX,thapi.aedi.ai
+  - DOMAIN-SUFFIX,theclickers.net
+  - DOMAIN-SUFFIX,tinggalklik.com
+  - DOMAIN-SUFFIX,topklik.com
+  - DOMAIN-SUFFIX,topsurfer.com
+  - DOMAIN-SUFFIX,traditionallyobjectlessblinked.com
+  - DOMAIN-SUFFIX,u-ad.info
+  - DOMAIN-SUFFIX,u-on.eu
+  - DOMAIN-SUFFIX,uadexchange.com
+  - DOMAIN-SUFFIX,useads.com
+  - DOMAIN-SUFFIX,webiklan.com
+  - DOMAIN-SUFFIX,weblogiklan.com
+  - DOMAIN-SUFFIX,yesads.com
+  - DOMAIN-SUFFIX,05ee3a24ed11df058c8.com
+  - DOMAIN-SUFFIX,1b969cef84d93b43.com
+  - DOMAIN-SUFFIX,34667c8ece5.com
+  - DOMAIN-SUFFIX,508327fbe9.95bd06d118.com
+  - DOMAIN-SUFFIX,64p3am9x95ct.com
+  - DOMAIN-SUFFIX,6631f33cf2a1032b.com
+  - DOMAIN-SUFFIX,995db2642d3d852b.com
+  - DOMAIN-SUFFIX,9eb10b7a3d04a.com
+  - DOMAIN-SUFFIX,9icmzvn6.website
+  - DOMAIN-SUFFIX,a63t9o1azf.com
+  - DOMAIN-SUFFIX,abrts.pro
+  - DOMAIN-SUFFIX,adeumssp.com
+  - DOMAIN-SUFFIX,afbcashidr.com
+  - DOMAIN-SUFFIX,ahcnxuepput.com
+  - DOMAIN-SUFFIX,aj1052.online
+  - DOMAIN-SUFFIX,aopxnvrugx.com
+  - DOMAIN-SUFFIX,auredzeon.com
+  - DOMAIN-SUFFIX,axzsd.pro
+  - DOMAIN-SUFFIX,azxsd.pro
+  - DOMAIN-SUFFIX,b9645fef65.com
+  - DOMAIN-SUFFIX,bcajjtbzmdrl.com
+  - DOMAIN-SUFFIX,bubblekraken.com
+  - DOMAIN-SUFFIX,cea9d3d4f74fb831.com
+  - DOMAIN-SUFFIX,chidsimp.com
+  - DOMAIN-SUFFIX,chqspuonctkgz.com
+  - DOMAIN-SUFFIX,craydark.pw
+  - DOMAIN-SUFFIX,curoax.com
+  - DOMAIN-SUFFIX,d0p21g2fep.com
+  - DOMAIN-SUFFIX,d72gb9oukw3j.com
+  - DOMAIN-SUFFIX,d824d7f5cbcb0e00.com
+  - DOMAIN-SUFFIX,d95d1c685a.6c142df43a.com
+  - DOMAIN-SUFFIX,daero.pw
+  - DOMAIN-SUFFIX,dairouzy.net
+  - DOMAIN-SUFFIX,dearerfonder.info
+  - DOMAIN-SUFFIX,doathair.com
+  - DOMAIN-SUFFIX,e7393e33565ce805.com
+  - DOMAIN-SUFFIX,edomz.com
+  - DOMAIN-SUFFIX,edspectsm.fun
+  - DOMAIN-SUFFIX,epfcfhtjxqd.com
+  - DOMAIN-SUFFIX,fkglkpkgkduh.top
+  - DOMAIN-SUFFIX,flexterkita.com
+  - DOMAIN-SUFFIX,fnasmpygwa.com
+  - DOMAIN-SUFFIX,fnkyyrgraizy.com
+  - DOMAIN-SUFFIX,frpiksdeygy.com
+  - DOMAIN-SUFFIX,fryruejoust.cam
+  - DOMAIN-SUFFIX,furocmay.com
+  - DOMAIN-SUFFIX,gbrrrxbodqdlq.com
+  - DOMAIN-SUFFIX,ghaahq.com
+  - DOMAIN-SUFFIX,hegarberetrof.pro
+  - DOMAIN-SUFFIX,hoegutvie.com
+  - DOMAIN-SUFFIX,ihqfiimrbcf.com
+  - DOMAIN-SUFFIX,iupqelechcmj.com
+  - DOMAIN-SUFFIX,iwtserve.com
+  - DOMAIN-SUFFIX,jillsclickcorner.com
+  - DOMAIN-SUFFIX,jjekxle.com
+  - DOMAIN-SUFFIX,jnwsrqxrdqct.top
+  - DOMAIN-SUFFIX,juruiklan.com
+  - DOMAIN-SUFFIX,kdbumyha.com
+  - DOMAIN-SUFFIX,kozoysnsx.com
+  - DOMAIN-SUFFIX,l9tdhe6.com
+  - DOMAIN-SUFFIX,ld82ydd.com
+  - DOMAIN-SUFFIX,leoceran.pw
+  - DOMAIN-SUFFIX,lpaizureik.com
+  - DOMAIN-SUFFIX,lsgqlgoc.com
+  - DOMAIN-SUFFIX,midgerelativelyhoax.com
+  - DOMAIN-SUFFIX,mifsirnhvvrps.top
+  - DOMAIN-SUFFIX,misxgkvnlf.com
+  - DOMAIN-SUFFIX,motosal.net
+  - DOMAIN-SUFFIX,mousheen.net
+  - DOMAIN-SUFFIX,naetoris.pw
+  - DOMAIN-SUFFIX,nvqonvfylkxdjc.com
+  - DOMAIN-SUFFIX,oardjnay.com
+  - DOMAIN-SUFFIX,octafx.com
+  - DOMAIN-SUFFIX,olkrzytv.com
+  - DOMAIN-SUFFIX,olmsoneenh.info
+  - DOMAIN-SUFFIX,ourtherss.top
+  - DOMAIN-SUFFIX,pheersie.com
+  - DOMAIN-SUFFIX,phudrour.net
+  - DOMAIN-SUFFIX,pvwtkxcpsrcsd.com
+  - DOMAIN-SUFFIX,q1xyxm89.com
+  - DOMAIN-SUFFIX,qprskl.com
+  - DOMAIN-SUFFIX,realwap.net
+  - DOMAIN-SUFFIX,replase.gq
+  - DOMAIN-SUFFIX,replase.ml
+  - DOMAIN-SUFFIX,ridingintractable.com
+  - DOMAIN-SUFFIX,sekaneemits.com
+  - DOMAIN-SUFFIX,shiiticprating.com
+  - DOMAIN-SUFFIX,shqbsdjatunl.com
+  - DOMAIN-SUFFIX,tidnqztumpnk.com
+  - DOMAIN-SUFFIX,tinfunshe.club
+  - DOMAIN-SUFFIX,torflegorb.com
+  - DOMAIN-SUFFIX,trendlope.com
+  - DOMAIN-SUFFIX,trvwjyjgkgeagd.com
+  - DOMAIN-SUFFIX,tummiarunzpf.com
+  - DOMAIN-SUFFIX,uamrnaakv.com
+  - DOMAIN-SUFFIX,ueuodgnrhb.com
+  - DOMAIN-SUFFIX,uieoogjarimcey.com
+  - DOMAIN-SUFFIX,uoarbhxfyygn.com
+  - DOMAIN-SUFFIX,uofmnbkm.com
+  - DOMAIN-SUFFIX,vkwaeo.com
+  - DOMAIN-SUFFIX,vrewpywootyu.com
+  - DOMAIN-SUFFIX,wbaogaqvrukprx.com
+  - DOMAIN-SUFFIX,whjibbprhng.com
+  - DOMAIN-SUFFIX,wkuave.com
+  - DOMAIN-SUFFIX,yllix.com
+  - DOMAIN-SUFFIX,ys3e965d.top
+  - DOMAIN-SUFFIX,zukxd6fkxqn.com
+  - DOMAIN-SUFFIX,zuyejecgb.com
+  - DOMAIN-SUFFIX,browsertelemetry.tk
+  - DOMAIN-SUFFIX,c-stat.eu
+  - DOMAIN-SUFFIX,cfs1.uzone.id
+  - DOMAIN-SUFFIX,hesftig.site
+  - DOMAIN-SUFFIX,ktrackdata.com
+  - DOMAIN-SUFFIX,moneyfree.co
+  - DOMAIN-SUFFIX,profitsurvey365.live
+  - DOMAIN-SUFFIX,rajatraffic.com
+  - DOMAIN-SUFFIX,track.aptitudemedia.co
+  - DOMAIN-SUFFIX,track.avxid.com
+  - DOMAIN-SUFFIX,track.zerofriend.com
+  - DOMAIN-SUFFIX,trackdan.com
+  - DOMAIN-SUFFIX,tracker.beritagar.id
+  - DOMAIN-SUFFIX,tracker.lazada.co.id
+  - DOMAIN-SUFFIX,trackingclick.net
+  - DOMAIN-SUFFIX,traffic-monetizer.com
+  - DOMAIN-SUFFIX,trafficfactory.biz
+  - DOMAIN-SUFFIX,trk.cpaoptimizer.com
+  
+# Custom tipis tipis
+- DOMAIN-SUFFIX,pagead2.googlesyndication.com
+- DOMAIN-SUFFIX,pagead2.googleadservices.com
+- DOMAIN-SUFFIX,adservice.google.com
+- DOMAIN-SUFFIX,googlesyndication.com
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,ads.doubleclick.net
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,m.doubleclick.net
+- DOMAIN-SUFFIX,mediavisor.doubleclick.net
+- DOMAIN-SUFFIX,ads-api.twitter.com
+- DOMAIN-SUFFIX,ads.pinterest.com
+- DOMAIN-SUFFIX,ads.youtube.com
+- DOMAIN-SUFFIX,bilivideo.com
+
+# MIX Block Referal Ads Awal²
+- DOMAIN,semawur.com
+- DOMAIN,cararegistrasi.com
+- DOMAIN-SUFFIX,trustedcpmrevenue.com
+- DOMAIN,amp-api-edge.apps.apple.com
+- DOMAIN,hidemyass.com
+- DOMAIN-SUFFIX,cdnasu.xyz
+- DOMAIN-SUFFIX,cdnime.xyz
+- DOMAIN-SUFFIX,cdnmeta.xyz
+- DOMAIN-SUFFIX,kentut.xyz
+- DOMAIN-SUFFIX,gambar.xyz
+- DOMAIN-SUFFIX,wp.com
+- DOMAIN-SUFFIX,cdnkomikindo.xyz
+- DOMAIN-SUFFIX,komikindo.info
+- DOMAIN-SUFFIX,cdnfgo.xyz
+- DOMAIN-SUFFIX,cdngue.xyz
+- DOMAIN,cdn.statically.io
+- DOMAIN-SUFFIX,itachi.my.id
+- DOMAIN-KEYWORD,nekopoi
+- DOMAIN-KEYWORD,cdnkomikindo.xyz
+- DOMAIN-SUFFIX,nhentai.net
+- DOMAIN-KEYWORD,revanced
+- DOMAIN-SUFFIX,dlupload.com
+- DOMAIN-SUFFIX,production.nuds.frostgate.studio
+- DOMAIN-SUFFIX,intergram.xyz
+- DOMAIN-SUFFIX,cdn.mouseflow.com
+- DOMAIN-SUFFIX,cdn-test.mouseflow.com
+- DOMAIN,tokopedia.app.link
+- DOMAIN,tokopedia.link
+# IP-CIRD
+- IP-CIDR,45.12.2.2/24 #kuronime
+- IP-CIDR,185.231.223.254/24 #kuronime
+
+# Block Deteksi Brimo & JMO Zimperium
+- DOMAIN-SUFFIX,vpbank.zimperium.com
+- DOMAIN-SUFFIX,zapac-rfd.zimperium.com
+- DOMAIN-SUFFIX,cdn.zimperium.com
+- DOMAIN-SUFFIX,edge.zimperium.com
+- DOMAIN-SUFFIX,stest.zimperium.com
+- DOMAIN-SUFFIX,zapac.zimperium.com
+- DOMAIN-SUFFIX,s3.brimo.nsgt.bri.co.id
+
+#kuramanimeJudol
+- DOMAIN-SUFFIX,iasini08.site
+- DOMAIN-SUFFIX,wdpenta8.xyz
+- DOMAIN-SUFFIX,akunrusia8.fun
+- DOMAIN-SUFFIX,kemana08.site
+- DOMAIN-SUFFIX,sampai08.site
+  
+# block logger
+- DOMAIN-KEYWORD,gsdk-va.bytegsdk.com
+- DOMAIN-KEYWORD,log-va.bytegsdk.com
+- DOMAIN-KEYWORD,gplog-sg.byteoversea.com
+- DOMAIN-KEYWORD,pcmactivity.chinacloudsites.cn
+
+# Komikindo
+- DOMAIN-KEYWORD,scpkdiudxvduq
+- DOMAIN-KEYWORD,ashoupsu
+- DOMAIN-KEYWORD,denetsuk
+- DOMAIN-KEYWORD,kena-blok
+- DOMAIN-KEYWORD,outoctillerytor
+- DOMAIN-KEYWORD,ptawhood
+- DOMAIN-KEYWORD,yrisrikjvfxcffv
+- DOMAIN-KEYWORD,yonxatuor
+- DOMAIN-KEYWORD,sortyrails
+- DOMAIN-KEYWORD,jomtingi
+- DOMAIN-KEYWORD,lhbnqkns
+- DOMAIN-KEYWORD,iggmpjidjefpr
+- DOMAIN-KEYWORD,awjvnfncw
+- DOMAIN-KEYWORD,xqrprttdvmynv
+- DOMAIN-KEYWORD,onohgmfhtavjef
+- DOMAIN-KEYWORD,daudejuw
+- DOMAIN-KEYWORD,outcheeh
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,videeza
+- DOMAIN-KEYWORD,njump.xmobistein
+- DOMAIN-KEYWORD,travelparked
+- DOMAIN-KEYWORD,lolllipoping
+- DOMAIN-KEYWORD,xmobistein
+- DOMAIN-KEYWORD,gry-vulkanvegas
+- DOMAIN-KEYWORD,itecoust
+- DOMAIN-KEYWORD,teeponuy
+- DOMAIN-KEYWORD,choahees
+- DOMAIN-KEYWORD,zudaichy
+- DOMAIN-KEYWORD,runsafeads
+- DOMAIN-KEYWORD,whauchel
+- DOMAIN-KEYWORD,itponytaa
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,itskiddien
+- DOMAIN-KEYWORD,thaudray
+- DOMAIN-KEYWORD,goupeecy
+- IP-CIDR,139.45.197.151/32,no-resolve
+- IP-CIDR,139.45.197.152/32,no-resolve
+- IP-CIDR,139.45.197.153/32,no-resolve
+- IP-CIDR,139.45.197.154/32,no-resolve
+
+# Komiku
+- DOMAIN-KEYWORD,udomyeasted
+
+# Susu
+- DOMAIN-KEYWORD,malthustutball
+- DOMAIN-KEYWORD,curdlecobiron
+- DOMAIN-KEYWORD,exdynsrv
+
+# Tap
+- DOMAIN-KEYWORD,agacelebir
+- DOMAIN-KEYWORD,begrimdos
+- DOMAIN-KEYWORD,histats
+- DOMAIN-KEYWORD,realsrv
+- DOMAIN-KEYWORD,samghasps
+- DOMAIN-KEYWORD,cdnasu
+
+#- DOMAIN-KEYWORD,cdncok
+- DOMAIN-KEYWORD,qqjar
+- DOMAIN-KEYWORD,rivne
+- DOMAIN-KEYWORD,runative-syndicate
+- DOMAIN-KEYWORD,twistconcept
+- DOMAIN-KEYWORD,viglink
+- DOMAIN-KEYWORD,faptitans
+- DOMAIN-KEYWORD,exoclick
+- DOMAIN-KEYWORD,highlevelcount
+- DOMAIN-KEYWORD,lostincunt
+- DOMAIN-KEYWORD,exoclick
+- DOMAIN-KEYWORD,exdynsrv
+- DOMAIN-KEYWORD,epoch
+- DOMAIN-KEYWORD,iadoremakingpics
+- DOMAIN-KEYWORD,hooligapps
+- DOMAIN-KEYWORD,hoolig
+- DOMAIN-KEYWORD,rtmark.net
+- DOMAIN-KEYWORD,simplewebanalysis
+- DOMAIN-KEYWORD,suchenachmuschi
+- DOMAIN-KEYWORD,traffichaus
+- DOMAIN-KEYWORD,tsyndicate
+- DOMAIN-KEYWORD,twistconcept
+
+# Sheakomik
+- DOMAIN-KEYWORD,aobslot
+- DOMAIN-KEYWORD,rebrand
+- DOMAIN-KEYWORD,marspedia
+
+# Sheamanga
+- DOMAIN-KEYWORD,a-ads
+- DOMAIN-KEYWORD,bc.game
+- DOMAIN-KEYWORD,eethilsi
+
+# komikindo
+- DOMAIN-KEYWORD,teeponuy
+- DOMAIN-KEYWORD,choahees
+- DOMAIN-KEYWORD,zudaichy
+- DOMAIN-KEYWORD,runsafeads
+- DOMAIN-KEYWORD,whauchel
+- DOMAIN-KEYWORD,itponytaa
+- DOMAIN-KEYWORD,goomaphy
+- DOMAIN-KEYWORD,itskiddien
+- DOMAIN-KEYWORD,thaudray
+- DOMAIN-KEYWORD,goupeecy
+- DOMAIN-KEYWORD,dooloust
+- DOMAIN-KEYWORD,outoctillerytor
+- DOMAIN-KEYWORD,pokaroad
+- DOMAIN-KEYWORD,denetsuk
+- DOMAIN-KEYWORD,koabouch
+- DOMAIN-KEYWORD,avonsour
+- DOMAIN-KEYWORD,glevoloo
+- DOMAIN-KEYWORD,kaya303
+
+#komikcast
+- DOMAIN-KEYWORD,bursa33
+- DOMAIN-KEYWORD,playbook88a2
+- DOMAIN-KEYWORD,linkwarkop4d
+- DOMAIN-KEYWORD,ancznewozw
+- DOMAIN-KEYWORD,warkop4dx
+- DOMAIN-KEYWORD,bonus33
+
+#komiktp
+- DOMAIN-KEYWORD,gacor.zone
+- DOMAIN-KEYWORD,gacor.vip
+- DOMAIN-KEYWORD,gacor.vin
+
+#sektekomik
+- DOMAIN-KEYWORD,phouwims
+
+#manhwa net
+- DOMAIN-KEYWORD,ber2g8e3keley
+
+#kiryuu
+- DOMAIN-KEYWORD,388herobest
+- DOMAIN-KEYWORD,redirect388herosafest
+- DOMAIN-KEYWORD,388hero178
+- DOMAIN-SUFFIX,bwsgmm.com
+- DOMAIN-KEYWORD,388hero
+
+#d3ward.github.io
+- DOMAIN-SUFFIX,adtago.s3.amazonaws.com
+- DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+- DOMAIN-SUFFIX,analytics.s3.amazonaws.com
+- DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
+
+# --- Google Ads
+- DOMAIN-SUFFIX,pagead2.googlesyndication.com
+- DOMAIN-SUFFIX,adservice.google.com
+- DOMAIN-SUFFIX,pagead2.googleadservices.com
+- DOMAIN-SUFFIX,afs.googlesyndication.com
+
+# --- Doubleclick.net
+- DOMAIN-SUFFIX,stats.g.doubleclick.net
+- DOMAIN-SUFFIX,ad.doubleclick.net
+- DOMAIN-SUFFIX,static.doubleclick.net
+- DOMAIN-SUFFIX,m.doubleclick.net
+- DOMAIN-SUFFIX,mediavisor.doubleclick.net
+
+# --- Adcolony
+- DOMAIN-SUFFIX,ads30.adcolony.com
+- DOMAIN-SUFFIX,adc3-launch.adcolony.com
+- DOMAIN-SUFFIX,events3alt.adcolony.com
+- DOMAIN-SUFFIX,wd.adcolony.com
+
+# --- Media.net
+- DOMAIN-SUFFIX,static.media.net
+- DOMAIN-SUFFIX,media.net
+- DOMAIN-SUFFIX,adservetx.media.net
+
+#========= Analytics ==========
+
+# --- Google Analytics
+- DOMAIN-SUFFIX,analytics.google.com
+- DOMAIN-SUFFIX,click.googleanalytics.com
+- DOMAIN-SUFFIX,google-analytics.com
+- DOMAIN-SUFFIX,ssl.google-analytics.com
+
+# --- Hotjar
+- DOMAIN-SUFFIX,adm.hotjar.com
+- DOMAIN-SUFFIX,identify.hotjar.com
+- DOMAIN-SUFFIX,insights.hotjar.com
+- DOMAIN-SUFFIX,script.hotjar.com
+- DOMAIN-SUFFIX,surveys.hotjar.com
+- DOMAIN-SUFFIX,careers.hotjar.com
+- DOMAIN-SUFFIX,events.hotjar.io
+
+# --- MouseFlow
+- DOMAIN-SUFFIX,mouseflow.com
+- DOMAIN-SUFFIX,cdn.mouseflow.com
+- DOMAIN-SUFFIX,o2.mouseflow.com
+- DOMAIN-SUFFIX,gtm.mouseflow.com
+- DOMAIN-SUFFIX,api.mouseflow.com
+- DOMAIN-SUFFIX,tools.mouseflow.com
+- DOMAIN-SUFFIX,cdn-test.mouseflow.com
+
+# --- FreshWorks
+- DOMAIN-SUFFIX,freshmarketer.com
+- DOMAIN-SUFFIX,claritybt.freshmarketer.com
+- DOMAIN-SUFFIX,fwtracks.freshmarketer.com
+
+# --- Luckyorange
+- DOMAIN-SUFFIX,luckyorange.com
+- DOMAIN-SUFFIX,api.luckyorange.com
+- DOMAIN-SUFFIX,realtime.luckyorange.com
+- DOMAIN-SUFFIX,cdn.luckyorange.com
+- DOMAIN-SUFFIX,w1.luckyorange.com
+- DOMAIN-SUFFIX,upload.luckyorange.net
+- DOMAIN-SUFFIX,cs.luckyorange.net
+- DOMAIN-SUFFIX,settings.luckyorange.net
+
+# --- Stats WP Plugin
+- DOMAIN-SUFFIX,stats.wp.com
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+- DOMAIN-SUFFIX,notify.bugsnag.com
+- DOMAIN-SUFFIX,sessions.bugsnag.com
+- DOMAIN-SUFFIX,api.bugsnag.com
+- DOMAIN-SUFFIX,app.bugsnag.com
+
+# --- Sentry
+- DOMAIN-SUFFIX,browser.sentry-cdn.com
+- DOMAIN-SUFFIX,app.getsentry.com
+
+#====== Social Trackers =======
+
+# --- Facebook
+- DOMAIN-SUFFIX,pixel.facebook.com
+- DOMAIN-SUFFIX,an.facebook.com
+
+# --- Twitter
+- DOMAIN-SUFFIX,static.ads-twitter.com
+- DOMAIN-SUFFIX,ads-api.twitter.com
+
+# --- LinkedIn
+- DOMAIN-SUFFIX,ads.linkedin.com
+- DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+- DOMAIN-SUFFIX,ads.pinterest.com
+- DOMAIN-SUFFIX,log.pinterest.com
+- DOMAIN-SUFFIX,analytics.pinterest.com
+- DOMAIN-SUFFIX,trk.pinterest.com
+
+# --- Reddit
+- DOMAIN-SUFFIX,events.reddit.com
+- DOMAIN-SUFFIX,events.redditmedia.com
+
+# --- YouTube
+- DOMAIN-SUFFIX,ads.youtube.com
+
+# --- TikTok
+- DOMAIN-SUFFIX,ads-api.tiktok.com
+- DOMAIN-SUFFIX,analytics.tiktok.com
+- DOMAIN-SUFFIX,ads-sg.tiktok.com
+- DOMAIN-SUFFIX,analytics-sg.tiktok.com
+- DOMAIN-SUFFIX,business-api.tiktok.com
+- DOMAIN-SUFFIX,ads.tiktok.com
+- DOMAIN-SUFFIX,log.byteoversea.com
+
+#============ Mix =============
+
+# --- Yahoo
+- DOMAIN-SUFFIX,ads.yahoo.com
+- DOMAIN-SUFFIX,analytics.yahoo.com
+- DOMAIN-SUFFIX,geo.yahoo.com
+- DOMAIN-SUFFIX,udc.yahoo.com
+- DOMAIN-SUFFIX,udcm.yahoo.com
+- DOMAIN-SUFFIX,analytics.query.yahoo.com
+- DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
+- DOMAIN-SUFFIX,log.fc.yahoo.com
+- DOMAIN-SUFFIX,gemini.yahoo.com
+- DOMAIN-SUFFIX,adtech.yahooinc.com
+
+# --- Yandex
+- DOMAIN-SUFFIX,extmaps-api.yandex.net
+- DOMAIN-SUFFIX,appmetrica.yandex.ru
+- DOMAIN-SUFFIX,adfstat.yandex.ru
+- DOMAIN-SUFFIX,metrika.yandex.ru
+- DOMAIN-SUFFIX,offerwall.yandex.net
+- DOMAIN-SUFFIX,adfox.yandex.ru
+
+# --- Unity
+- DOMAIN-SUFFIX,auction.unityads.unity3d.com
+- DOMAIN-SUFFIX,webview.unityads.unity3d.com
+- DOMAIN-SUFFIX,config.unityads.unity3d.com
+- DOMAIN-SUFFIX,adserver.unityads.unity3d.com
+- DOMAIN-SUFFIX,com.unity3d.services.ads
+- DOMAIN-SUFFIX,adunit.unity3d.com
+- DOMAIN-SUFFIX,adsunit.unity3d.com
+- DOMAIN-SUFFIX,adserver.unity3d.com
+
+#============ OEMs ============
+
+# --- Realme
+- DOMAIN-SUFFIX,iot-eu-logser.realme.com
+- DOMAIN-SUFFIX,iot-logser.realme.com
+- DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
+- DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+
+# --- Xiaomi
+- DOMAIN-SUFFIX,api.ad.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+- DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+- DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN-SUFFIX,tracking.rus.miui.com
+
+# --- Oppo
+- DOMAIN-SUFFIX,adsfs.oppomobile.com
+- DOMAIN-SUFFIX,adx.ads.oppomobile.com
+- DOMAIN-SUFFIX,ck.ads.oppomobile.com
+- DOMAIN-SUFFIX,data.ads.oppomobile.com
+
+# --- Huawei
+- DOMAIN-SUFFIX,metrics.data.hicloud.com
+- DOMAIN-SUFFIX,metrics2.data.hicloud.com
+- DOMAIN-SUFFIX,grs.hicloud.com
+- DOMAIN-SUFFIX,logservice.hicloud.com
+- DOMAIN-SUFFIX,logservice1.hicloud.com
+- DOMAIN-SUFFIX,logbak.hicloud.com
+
+# --- OnePlus
+- DOMAIN-SUFFIX,click.oneplus.cn
+- DOMAIN-SUFFIX,open.oneplus.net
+
+# --- Samsung
+- DOMAIN-SUFFIX,samsungads.com
+- DOMAIN-SUFFIX,smetrics.samsung.com
+- DOM
